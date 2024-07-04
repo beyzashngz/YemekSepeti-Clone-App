@@ -1,4 +1,4 @@
-# YemekSepeti-Cloe-App
+# YemekSepeti-Clone-App
 
 <h2>Technologies used in this project</h2>
 
